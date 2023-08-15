@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-
+A webpage that displays my profile and all projects I have coded
 
 ## Available Scripts
 
